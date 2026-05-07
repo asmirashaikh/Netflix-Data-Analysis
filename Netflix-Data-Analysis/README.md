@@ -1,66 +1,45 @@
-\# Netflix Data Analysis 📊
+# Netflix Data Analysis 📊
 
+## 📌 Overview
+This project analyzes Netflix movies and TV shows data using Python to extract insights and visualize trends.
 
+---
 
-\## Overview
+## 🛠️ Tools & Technologies
+- Python
+- Pandas
+- Matplotlib
+- Seaborn
+- Jupyter Notebook
 
-This project analyzes Netflix movies and TV shows data using Python.
+---
 
+## 📊 Analysis Performed
+- Movies vs TV Shows Distribution
+- Top Countries Producing Netflix Content
+- Netflix Release Trends Over Years
+- Top Netflix Genres
 
+---
 
-\## Tools Used
+## 🚀 Skills Demonstrated
+- Data Cleaning
+- Exploratory Data Analysis (EDA)
+- Data Visualization
+- Insight Extraction
 
-\- Python
+---
 
-\- Pandas
+## 📷 Project Screenshots
 
-\- Matplotlib
+### Movies vs TV Shows
+![Movies vs TV Shows](images/movies_vs_tvshows.png)
 
-\- Seaborn
+### Top Countries
+![Top Countries](images/top_countries.png)
 
-\- Jupyter Notebook
+### Release Trends
+![Release Trends](images/release_trends.png)
 
-
-
-\## Key Analysis
-
-\- Movies vs TV Shows distribution
-
-\- Top countries producing Netflix content
-
-\- Netflix release trends over years
-
-\- Top Netflix genres
-
-
-
-\## Skills Demonstrated
-
-\- Data Cleaning
-
-\- Exploratory Data Analysis (EDA)
-
-\- Data Visualization
-
-\- Insight Extraction
-
-
-
-\## Project Structure
-
-
-
-Netflix-Data-Analysis
-
-│
-
-├── dataset
-
-├── notebook
-
-├── images
-
-└── README.md
-
-
-
+### Top Genres
+![Top Genres](images/top_genres.png)
